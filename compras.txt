@@ -7,3 +7,7 @@ macarrão
 tang
 açúcar
 arroz
+
+calça
+camisa
+cinto
