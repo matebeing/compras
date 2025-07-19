@@ -12,3 +12,10 @@ bolo
 guaraná
 leite condensado
 chocolate em pó
+
+calça
+camisa
+cinto
+
+balão
+vela
